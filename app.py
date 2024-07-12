@@ -3,7 +3,7 @@ from modelos.classe1 import Restaurante
 restaurante_praca = Restaurante('praça', 'gourmet')
 restaurante_praca.receber_avaliacao('Gustavo', 10)
 restaurante_praca.receber_avaliacao('Gabriel', 7)
-restaurante_praca.receber_avaliacao('Murilo', 3)
+restaurante_praca.receber_avaliacao('Murilo', 4)
 restaurante_praca.receber_avaliacao('Lorenzo', 7)
 restaurante_praca.receber_avaliacao('Miguel', 4)
 restaurante_praca = Restaurante('Pizza Canoas', 'entregas')
